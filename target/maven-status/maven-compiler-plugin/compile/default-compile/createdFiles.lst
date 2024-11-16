@@ -1,0 +1,6 @@
+com/hotelreservas/config/WebConfig$1.class
+com/hotelreservas/repository/ReservaRepository.class
+com/hotelreservas/controller/ReservaController.class
+com/hotelreservas/model/Reserva.class
+com/hotelreservas/HotelReservasApplication.class
+com/hotelreservas/config/WebConfig.class
